@@ -18,9 +18,7 @@ Clone this repository, install Node.js dependencies, and build the source code:
 
 ```bash
 git clone https://github.com/max8633/HW_FlashSwap.git
-cd FlashSwapPractice
+cd HW_FlashSwap
 npm install
-forge install
-forge build
 forge test
 ```
